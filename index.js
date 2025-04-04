@@ -1,1 +1,1 @@
-console.log("¡Bot WhatsApp en construcción!");
+console.log("¡Bot WhatsApp en construcció!");
